@@ -1,0 +1,1 @@
+# poc-sumsub-assets
